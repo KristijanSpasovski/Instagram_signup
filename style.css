@@ -1,0 +1,182 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.phones {
+  height: 600px;
+  margin-right: 32px;
+}
+
+.instalogo {
+  display: flex;
+  flex-wrap: wrap;
+  width: 180px;
+  height: 100px;
+}
+
+h1 {
+  position: relative;
+  bottom: 5px;
+  font-size: 16px;
+  color: #333333;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: bold;
+  width: 268px;
+  height: 40px;
+}
+
+.wrapper_2 {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  bottom: 115px;
+  margin-top: 32px;
+  justify-content: center;
+  width: 350px;
+  height: 621.98px;
+  padding: 10px;
+  border: 0.5px solid #d4cfcf;
+}
+
+.wrapper_3 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 110px;
+  width: 350px;
+  height: 70px;
+  border: 0.5px solid #d4cfcf;
+}
+
+.wrapper_3 a {
+  text-decoration: none;
+}
+
+div .or {
+  display: block;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 15px 55px;
+  font-family: "Roboto";
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.signup_forms {
+  border: 0.5px solid #d4cfcf;
+  background-color: #fafafa;
+  padding: 9px 7px 8px;
+  border-radius: 3px;
+  font-family: "Roboto";
+  font-weight: bold;
+  color: #333333;
+  height: 36px;
+  width: 268px;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.wrapper_2 form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  row-gap: 5px;
+  justify-content: center;
+  margin-bottom: 160px;
+}
+
+.policies {
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  line-height: 16px;
+  width: 250.95px;
+  height: 48px;
+}
+
+.login-with-facebook {
+  display: inline-block;
+  padding: 7px 16px;
+  width: 268px;
+  height: 34px;
+  background-color: #0095f6;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-with-facebook i {
+  margin-right: 8px;
+}
+
+.login-with-facebook:hover {
+  background-color: #115293;
+}
+
+.instagram-signup-button {
+  display: inline-block;
+  padding: 7px 16px;
+  margin-top: 14px;
+  width: 268px;
+  height: 32px;
+  background-color: #0095f6;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.instagram-signup-button:hover {
+  background-color: #3645b8;
+}
+
+div p {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.bn45 {
+  width: 134.28px;
+  height: 40px;
+}
+
+.bn44 {
+  width: 110p.77px;
+  height: 40px;
+}
+
+.wrapper_4 {
+  display: flex;
+  flex-direction: column;
+}
